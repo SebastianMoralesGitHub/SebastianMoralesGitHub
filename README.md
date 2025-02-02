@@ -1,4 +1,4 @@
-# ¡Hola, soy [Sebastian Morales]! 👋
+# ¡Hola, soy Sebastian Morales! 👋
 
 Bienvenido a mi perfil de GitHub, donde comparto proyectos de práctica y desarrollo en **Java**, **JavaScript** y **ReactJS**. Este espacio es una muestra de mi progreso como desarrollador de software y de mi pasión por aprender y mejorar continuamente.
 
